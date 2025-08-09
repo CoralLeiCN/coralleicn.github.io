@@ -1,0 +1,9 @@
+baseURL: https://coralleicn.github.io
+languageCode: en-GB
+title: "Coral's logging.error()"
+
+# theme: ["PaperMod"]
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
